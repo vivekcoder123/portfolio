@@ -88,7 +88,7 @@
         </div>
         <h4>BOOTSTRAP</h4>
         <div class="progress mb-3">
-          <div class="progress-bar bg-success" style="width:90%"></div>
+          <div class="progress-bar bg-success" style="width:100%"></div>
         </div>
         <h4>JQUERY</h4>
         <div class="progress mb-3">
