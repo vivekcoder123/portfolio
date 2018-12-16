@@ -11,10 +11,10 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <div class="container">
+  <div class="">
     <header id="main-header">
       <div class="row no-gutters">
-        <div class="col-lg-4 col-md-5">
+        <div class="col-lg-4 col-md-5" style="height:406px;">
           <img src="img/vivek.jpg">
         </div>
         <div class="col-lg-8 col-md-7">
@@ -29,8 +29,9 @@
               </div>
             </div>
 
-            <div class="p-4 bg-black">
+            <div class="p-4 bg-black text-center">
               Full Stack Web Developer
+			  <img src="img/designation.jpg" alt="" style="height:40px;width:40px;" class="ml-5">
             </div>
 
             <div>
