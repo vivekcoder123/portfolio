@@ -87,6 +87,26 @@
         <div class="progress mb-3">
           <div class="progress-bar bg-success" style="width:95%"></div>
         </div>
+	<h4>NODE JS</h4>
+        <div class="progress mb-3">
+          <div class="progress-bar bg-success" style="width:90%"></div>
+        </div>
+	<h4>REACT JS</h4>
+        <div class="progress mb-3">
+          <div class="progress-bar bg-success" style="width:95%"></div>
+        </div>
+        <h4>MYSQLI</h4>
+        <div class="progress mb-3">
+          <div class="progress-bar bg-success" style="width:90%"></div>
+        </div>
+        <h4>MONGODB</h4>
+        <div class="progress mb-3">
+          <div class="progress-bar bg-success" style="width:80%"></div>
+        </div>
+        <h4>WORDPRESS</h4>
+        <div class="progress mb-3">
+          <div class="progress-bar bg-success" style="width:85%"></div>
+        </div>
         <h4>BOOTSTRAP</h4>
         <div class="progress mb-3">
           <div class="progress-bar bg-success" style="width:100%"></div>
@@ -98,14 +118,6 @@
         <h4>FABRIC JS</h4>
         <div class="progress mb-3">
           <div class="progress-bar bg-success" style="width:100%"></div>
-        </div>
-        <h4>MYSQLI</h4>
-        <div class="progress mb-3">
-          <div class="progress-bar bg-success" style="width:90%"></div>
-        </div>
-        <h4>WORDPRESS</h4>
-        <div class="progress mb-3">
-          <div class="progress-bar bg-success" style="width:85%"></div>
         </div>
       </div>
     </div>
